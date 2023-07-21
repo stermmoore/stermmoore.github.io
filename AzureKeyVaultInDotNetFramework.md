@@ -192,20 +192,20 @@ If using environment variables they must be available to the Visual Studio proce
 
 This post got me started with adding KeyVault to the application 
 
-[https://dotnetthoughts.net/azure-key-vault-in-aspnet-mvc/](https://dotnetthoughts.net/azure-key-vault-in-aspnet-mvc/)
+<https://dotnetthoughts.net/azure-key-vault-in-aspnet-mvc/>
 
 Microsoft documentation relating to the IIS Application Pool setProfileEnvironment setting 
 
-[https://learn.microsoft.com/en-us/iis/configuration/system.applicationhost/applicationpools/add/processmodel](https://learn.microsoft.com/en-us/iis/configuration/system.applicationhost/applicationpools/add/processmodel)
+<https://learn.microsoft.com/en-us/iis/configuration/system.applicationhost/applicationpools/add/processmodel>
 
 Source code for the AzureKeyVaultConfigurationBuilder showing the use of the DefaultAzureCredential class 
 
-[https://github.com/aspnet/MicrosoftConfigurationBuilders/blob/main/src/Azure/AzureKeyVaultConfigBuilder.cs#L166](https://github.com/aspnet/MicrosoftConfigurationBuilders/blob/main/src/Azure/AzureKeyVaultConfigBuilder.cs#L166)
+<https://github.com/aspnet/MicrosoftConfigurationBuilders/blob/main/src/Azure/AzureKeyVaultConfigBuilder.cs#L166>
 
 Microsoft documentation for the DefaultAzureCredential class
 
-[https://learn.microsoft.com/en-us/dotnet/api/azure.identity.defaultazurecredential?view=azure-dotnet](https://learn.microsoft.com/en-us/dotnet/api/azure.identity.defaultazurecredential?view=azure-dotnet)
+<https://learn.microsoft.com/en-us/dotnet/api/azure.identity.defaultazurecredential?view=azure-dotnet>
 
 Microsoft documentation for using environment credentials
 
-[https://learn.microsoft.com/en-us/dotnet/api/azure.identity.environmentcredential?view=azure-dotnet](https://learn.microsoft.com/en-us/dotnet/api/azure.identity.environmentcredential?view=azure-dotnet)
+<https://learn.microsoft.com/en-us/dotnet/api/azure.identity.environmentcredential?view=azure-dotnet>
